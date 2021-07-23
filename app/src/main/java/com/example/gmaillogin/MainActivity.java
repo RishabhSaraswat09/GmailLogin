@@ -25,7 +25,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 
 import org.jetbrains.annotations.NotNull;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity{
     SignInButton signInButton;
     FirebaseAuth firebaseAuth;
     GoogleSignInClient googleSignInClient;
