@@ -21,7 +21,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 import org.jetbrains.annotations.NotNull;
 
-public class Second extends AppCompatActivity {
+public class Second extends AppCompatActivity{
     ImageView imageView;
     TextView textView;
     Button button;
